@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+<meta charset="UTF-8">
 <title>CAD</title>
 <link rel="stylesheet" href="style.css">
 </head>
@@ -8,16 +9,18 @@
 <body>
 
 <nav class="navbar">
-<a href="index.html">Home</a>
-<a href="learning.html">Learning Hub</a>
+    <div>🚀 ESW Engineers Path</div>
+    <div class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="learning.html">Learning Hub</a>
+    </div>
 </nav>
 
 <header class="hero">
-<h1>🧊 CAD Design</h1>
-<p>3D modeling and engineering design tools.</p>
+    <h1>🧊 CAD Design</h1>
 </header>
 
-<a href="learning.html">← Back</a>
+<a href="learning.html" class="back">← Back</a>
 
 <section>
 
