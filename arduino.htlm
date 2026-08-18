@@ -7,9 +7,19 @@
 
 <body>
 
+<nav class="navbar">
+<a href="index.html">Home</a>
+<a href="learning.html">Learning Hub</a>
+</nav>
+
+<header class="hero">
+<h1>🔌 Arduino & Electronics</h1>
+<p>Learn circuits, sensors, and microcontrollers.</p>
+</header>
+
 <a href="learning.html">← Back</a>
 
-<h1>🔌 Arduino & Electronics</h1>
+<section>
 
 <div class="card">
 <h3>Arduino Learning</h3>
@@ -20,6 +30,8 @@
 <h3>Paul McWhorter</h3>
 <a href="https://www.youtube.com/@PaulMcWhorter" target="_blank">Watch →</a>
 </div>
+
+</section>
 
 </body>
 </html>
