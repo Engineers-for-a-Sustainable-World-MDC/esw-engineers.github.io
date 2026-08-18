@@ -1,46 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Arduino</title>
-<link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-
-<nav class="navbar">
-    <div>🚀 ESW Engineers Path</div>
-    <div class="nav-links">
-        <a href="index.html">Home</a>
-        <a href="learning.html">Learning Hub</a>
-    </div>
-</nav>
-
-<header class="hero">
-    <h1>🔌 Arduino</h1>
-    <p>Electronics and microcontroller learning</p>
-</header>
-
-<a href="learning.html" class="back">← Back</a>
-
-<section>
-
 <div class="card">
-<h3>Arduino Official</h3>
+<h3>Arduino Docs</h3>
 <a href="https://docs.arduino.cc/learn/" target="_blank">Start →</a>
 </div>
 
 <div class="card">
-<h3>Paul McWhorter</h3>
-<a href="https://www.youtube.com/@PaulMcWhorter" target="_blank">Watch →</a>
+<h3>Tinkercad Circuits</h3>
+<p>Simulate Arduino without hardware</p>
+<a href="https://www.tinkercad.com" target="_blank">Try →</a>
 </div>
 
 <div class="card">
-<h3>Project Hub</h3>
-<a href="https://projecthub.arduino.cc/" target="_blank">Explore →</a>
+<h3>freeCodeCamp Arduino</h3>
+<p>Full beginner course</p>
+<a href="https://www.youtube.com/@freecodecamp" target="_blank">Watch →</a>
 </div>
-
-</section>
-
-</body>
-</html>
