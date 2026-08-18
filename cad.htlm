@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CAD</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<a href="learning.html">← Back</a>
+
+<h1>🧊 CAD Design</h1>
+
+<div class="card">
+<h3>Fusion 360</h3>
+<a href="https://www.autodesk.com/education" target="_blank">Open →</a>
+</div>
+
+<div class="card">
+<h3>SOLIDWORKS</h3>
+<a href="https://www.solidworks.com" target="_blank">Open →</a>
+</div>
+
+</body>
+</html>
