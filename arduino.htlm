@@ -1,37 +1,66 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
-<title>Arduino</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Arduino | ESW Engineers Path</title>
 <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
 <nav class="navbar">
-<a href="index.html">Home</a>
-<a href="learning.html">Learning Hub</a>
+
+    <div class="nav-logo">
+        🚀 ESW Engineers Path
+    </div>
+
+    <div class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="learning.html">Learning Hub</a>
+    </div>
+
 </nav>
 
 <header class="hero">
-<h1>🔌 Arduino & Electronics</h1>
-<p>Learn circuits, sensors, and microcontrollers.</p>
+    <h1>🔌 Arduino & Electronics</h1>
+    <p>Learn circuits, sensors, and microcontrollers.</p>
 </header>
 
-<a href="learning.html">← Back</a>
+<a href="learning.html">← Back to Learning Hub</a>
 
 <section>
 
-<div class="card">
-<h3>Arduino Learning</h3>
-<a href="https://docs.arduino.cc/learn/" target="_blank">Start →</a>
-</div>
+    <div class="card">
+        <h3>Arduino Official Learning</h3>
+        <p>Beginner guides, tutorials, and projects.</p>
+        <a href="https://docs.arduino.cc/learn/" target="_blank">
+            Start Learning →
+        </a>
+    </div>
 
-<div class="card">
-<h3>Paul McWhorter</h3>
-<a href="https://www.youtube.com/@PaulMcWhorter" target="_blank">Watch →</a>
-</div>
+    <div class="card">
+        <h3>Paul McWhorter</h3>
+        <p>Best YouTube series for Arduino beginners.</p>
+        <a href="https://www.youtube.com/@PaulMcWhorter" target="_blank">
+            Watch →
+        </a>
+    </div>
+
+    <div class="card">
+        <h3>Arduino Project Hub</h3>
+        <p>Real-world Arduino projects to practice.</p>
+        <a href="https://projecthub.arduino.cc/" target="_blank">
+            Explore Projects →
+        </a>
+    </div>
 
 </section>
+
+<footer>
+    <p>© 2026 ESW Engineers Path</p>
+</footer>
 
 </body>
 </html>
