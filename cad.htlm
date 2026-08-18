@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 <meta charset="UTF-8">
-<title>CAD</title>
+<title>CAD Design | ESW Engineers Path</title>
 <link rel="stylesheet" href="style.css">
 </head>
 
@@ -18,20 +19,47 @@
 
 <header class="hero">
     <h1>🧊 CAD Design</h1>
+    <p>Learn 3D modeling, product design, and engineering CAD tools.</p>
 </header>
 
-<a href="learning.html" class="back">← Back</a>
+<a href="learning.html" class="back">← Back to Learning Hub</a>
 
 <section>
 
 <div class="card">
-<h3>Fusion 360</h3>
-<a href="https://www.autodesk.com/education" target="_blank">Open →</a>
+<h3>Fusion 360 (Autodesk)</h3>
+<p>Free for students. Industry-level CAD, CAM, and design software.</p>
+<a href="https://www.autodesk.com/education" target="_blank">Get Access →</a>
 </div>
 
 <div class="card">
 <h3>SOLIDWORKS</h3>
-<a href="https://www.solidworks.com" target="_blank">Open →</a>
+<p>Professional CAD software widely used in engineering industries.</p>
+<a href="https://www.solidworks.com" target="_blank">Learn More →</a>
+</div>
+
+<div class="card">
+<h3>Onshape</h3>
+<p>Cloud-based CAD software. No download required.</p>
+<a href="https://www.onshape.com/en/" target="_blank">Start →</a>
+</div>
+
+<div class="card">
+<h3>Lars Christensen (Fusion 360)</h3>
+<p>Best YouTube tutorials for Fusion 360 beginners.</p>
+<a href="https://www.youtube.com/@cadcamstuff" target="_blank">Watch →</a>
+</div>
+
+<div class="card">
+<h3>Learn Fusion 360 (Autodesk)</h3>
+<p>Official tutorials and guided learning paths.</p>
+<a href="https://help.autodesk.com/view/fusion360/ENU/courses/" target="_blank">Start Learning →</a>
+</div>
+
+<div class="card">
+<h3>MIT OpenCourseWare (CAD & Design)</h3>
+<p>University-level design and engineering courses.</p>
+<a href="https://ocw.mit.edu" target="_blank">Explore →</a>
 </div>
 
 </section>
