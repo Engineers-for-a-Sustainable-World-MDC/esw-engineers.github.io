@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Arduino</title>
+<link rel="stylesheet" href="style.css">
+</head>
 
+<body>
+
+<a href="learning.html">← Back</a>
+
+<h1>🔌 Arduino & Electronics</h1>
+
+<div class="card">
+<h3>Arduino Learning</h3>
+<a href="https://docs.arduino.cc/learn/" target="_blank">Start →</a>
+</div>
+
+<div class="card">
+<h3>Paul McWhorter</h3>
+<a href="https://www.youtube.com/@PaulMcWhorter" target="_blank">Watch →</a>
+</div>
+
+</body>
+</html>
