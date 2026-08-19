@@ -9,6 +9,7 @@ body {
 .navbar {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 15px 30px;
     background-color: #1b4332;
     color: white;
@@ -16,8 +17,13 @@ body {
 
 .nav-links a {
     color: white;
-    margin-left: 20px;
     text-decoration: none;
+    margin-left: 20px;
+    font-weight: 500;
+}
+
+.nav-links a:hover {
+    text-decoration: underline;
 }
 
 /* HERO */
@@ -27,15 +33,60 @@ body {
     background: linear-gradient(to right, #d8f3dc, #b7e4c7);
 }
 
+.hero h1 {
+    margin-bottom: 10px;
+}
+
+/* SECTIONS */
+section {
+    padding: 40px 20px;
+}
+
+/* GRID */
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+}
+
 /* CARDS */
 .card {
     background: white;
     padding: 20px;
     border-radius: 12px;
-    transition: 0.3s;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+    transition: 0.3s ease;
 }
 
 .card:hover {
-    transform: translateY(-5px);
+    transform: translateY(-6px);
     border-left: 5px solid #2d6a4f;
+}
+
+/* LINK CARDS */
+.link-card {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* LINKS INSIDE CARDS */
+.card a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #2d6a4f;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.card a:hover {
+    text-decoration: underline;
+}
+
+/* BACK BUTTON */
+.back {
+    display: inline-block;
+    margin: 20px;
+    color: #2d6a4f;
+    font-weight: bold;
+    text-decoration: none;
 }
